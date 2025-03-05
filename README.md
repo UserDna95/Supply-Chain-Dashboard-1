@@ -27,6 +27,7 @@ Step 3)
 Dashboard in Power BI & Insights
 
 Page 1 "Overview"
+
 All other metrics are significantly below their targets except for Line Fill Rate and Volume Fill Rate. This dashboard is a useful starting point to understand the factors contributing to the delayed service rates. Potential causes might include:
 
 -Poor route optimization
