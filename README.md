@@ -3,7 +3,7 @@
 Problem Statement:
 How did service levels affect contract renewal for customers? 
 
-Step 1) Understand, clean, and handle null values in data on Excel 
+Step 1) Clean and handle null values in data on Excel 
 >Line Fill Rate is used to understand how many lines have been shipped out of the total lines ordered
 
 >Volume fill rate or case fill rate is used to understand the total quantity we can ship for a customer per order or for a given period
